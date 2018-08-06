@@ -1,0 +1,36 @@
+body{
+    background-color: #ff7b25;
+    font-family: 'Roboto Mono', monospace;
+    color: black;
+}
+h1{
+    color: black;
+    font-family: 'Roboto Mono', monospace;
+    text-decoration: underline;
+}
+.scss{
+    background-color: black;
+    color: white;
+}
+.css{
+    background-color: black;
+    color: white;
+}
+.var{
+    color: #0f0;
+}
+.value{
+    color: #f00;
+}
+.val{
+    color: #0ff;
+}
+.char{
+    color: #f0f;
+}
+.iden{
+    color: #ff0;
+}
+.sc{
+    color: #9966cc;
+}
